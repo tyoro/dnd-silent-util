@@ -1,0 +1,23 @@
+{
+  "name": "dnd-silent-util",
+  "version": "0.0.1",
+  "description": "Module for implementing silent function(do not disturb)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tyoro/dnd-silent-util.git"
+  },
+  "keywords": [
+    "dnd",
+    "do-not-disturb"
+  ],
+  "author": "tyoro",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/tyoro/dnd-silent-util/issues"
+  },
+  "homepage": "https://github.com/tyoro/dnd-silent-util#readme"
+}
