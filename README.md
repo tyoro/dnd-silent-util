@@ -1,7 +1,13 @@
 # dnd-silent-util
 Module for implementing silent function(do not disturb)
 
-~~~
+#### Installation
+```sh
+$ npm install dnd-silent-util
+```
+
+#### Usage
+```javascript
 const dnd = require('dnd-silent-util');
 
 dnd.setTime("23:00-10:00");
@@ -12,6 +18,6 @@ if( !dnd.isSilent() ){
 }else{
   // is silent
 }
-~~~
+```
 
 By default it is disable, in which case it returns false.
